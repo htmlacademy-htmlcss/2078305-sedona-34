@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Natalia Grechannikova](https://up.htmlacademy.ru/htmlcss/34/user/2078305).
-* Наставник: `Неизвестно`.
+* Наставник: `Дмитрий (sench) Железцов`.
 
 ---
 
