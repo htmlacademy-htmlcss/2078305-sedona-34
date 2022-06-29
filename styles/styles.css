@@ -28,8 +28,29 @@ body {
 .navigation-link {
     font-size: 20px;
     line-height: 26px;
+    font-weight: 700;
     color: #000000;
     background-color: #FFFFFF;
     text-decoration: none;
 
+}
+.main-index {
+    color: #000000;
+    background-color: #FFFFFF;
+    background-image: url("../images/index-background.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+. content h1 {
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.reasons-list {
+    text-align:center
+}
+.page-footer a {
+    color: inherit;
 }
