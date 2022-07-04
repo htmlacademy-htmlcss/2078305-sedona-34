@@ -49,12 +49,11 @@ body {
 
 }
 
-.main-index {
-    color: #000000;
-    background-color: #FFFFFF;
+.background-images {
+    text-align: center;
     background-image: url("../images/index-background.jpg");
-    background-size: 100% auto;
     background-repeat: no-repeat;
+
 }
 
 .main-title {
