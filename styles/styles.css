@@ -50,7 +50,10 @@ body {
 }
 
 .background-images {
-    text-align: center;
+    padding-left: 371px;
+    padding-top: 51px;
+    padding-right: 371px;
+    padding-bottom: 82px;
     background-image: url("../images/index-background.jpg");
     background-repeat: no-repeat;
 
