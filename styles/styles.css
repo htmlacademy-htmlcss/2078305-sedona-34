@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/ptsans-400.woff2") format("woff2");
+    font-display: swap;
+}
+@font-face {
+    font-family: "PT Sans";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/ptsans-700.woff2") format("woff2");
+    font-display: swap;
+}
+body {
+    font-family: "PT Sans",sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+
+.button {
+    font-family: inherit;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #ffffff;
+    background-color: #756157;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+  
+.page-header {
+    color: #000000;
+    background: #FFFFFF;
+
+}
+    
+.navigation-link {
+    font-size: 20px;
+    line-height: 26px;
+    font-weight: 700;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.background-images {
+    padding-left: 371px;
+    padding-top: 51px;
+    padding-right: 371px;
+    padding-bottom: 82px;
+    background-image: url("../images/index-background.jpg");
+    background-repeat: no-repeat;
+
+}
+
+.main-title {
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #000000;
+    background-color: #FFFFFF
+}
+
+.main-reasons {
+    font-size: 22px;
+    line-height: 26px;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+    background-color: #FFFFFF
+}
+
+.reasons-list {
+    text-align:center
+}
+
+.interest-title {
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.page-footer {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #FFFFFF;
+    border-color: #000000;
+    text-align: center;
+    background-image: url("../images/background-main-page.jpg");
+    background-repeat: no-repeat;
+}
+
+.page-footer a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.inner-header-title {
+    font-size: 60px;
+    line-height: 78px;
+    font-weight: 700;
+
+}
+
+.breadcrumbs {
+    color: #000000;
+}
+
+.breadcrumbs-link {
+    color: inherit;
+}
